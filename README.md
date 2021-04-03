@@ -12,7 +12,7 @@ JUPYTER NOTEBOOK PROJECT:
 Assignment1_GenereClassification.ipynb
 
 info:
-Targhet Genere:  Metal - Bluese - Regge - HipHop
+Targhet Genere:  Metal - Bluse - Reggae - HipHop
 
 WORKFLOW:
 Feature computation
