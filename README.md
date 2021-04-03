@@ -2,8 +2,17 @@
  First Project of Computer Music - Language and Systems Group 16
  Homework 1
 
-OVERLEAF PROJECT LINK:
+ENVIRONMENT FOR MINICONDA:
+CMLS.yml
+
+OVERLEAF REPORT LINK:
 https://it.overleaf.com/7297938544zbhsbwwycfwv
+
+JUPYTER NOTEBOOK PROJECT:
+Assignment1_GenereClassification.ipynb
+
+info:
+Targhet Genere:  Metal - Bluese - Regge - HipHop
 
 WORKFLOW:
 Feature computation
