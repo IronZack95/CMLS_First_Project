@@ -1,0 +1,113 @@
+\documentclass[12pt,a4paper]{article}
+\pdfpagewidth\paperwidth
+\pdfpageheight\paperheight
+
+% Paccchetti
+\usepackage{lipsum} % Just to automatically generate text
+\usepackage[italian, english]{babel} % La seconda lingua nell'ordine Ë quella che prevale
+\usepackage[latin1, utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{graphicx}
+\graphicspath{ {./Images/} }
+
+\usepackage{tabularx}
+\usepackage{subfigure}
+\usepackage{afterpage}
+\usepackage{amsmath,amssymb}    
+\usepackage{mathtools}
+\usepackage{siunitx}        
+\usepackage{rotating}  
+\usepackage{fancyhdr}  
+\usepackage[scriptsize]{caption} 
+\usepackage{booktabs} % per le tabelle
+\usepackage{fancyhdr}
+\usepackage{verbatim} % multiline comments
+\usepackage{microtype}
+
+\hyphenation{a-gen-tiz-za-zio-ne}
+
+% Impaginazione
+
+\linespread{1.}
+
+\title{}
+\author{}
+
+\pagestyle{fancy}
+\lhead{Materia}
+\chead{Compito}
+\rhead{Lorenzo Lellini}
+\newcommand{\Rarrow}{\mbox{\Large$\Rightarrow$}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\date{} % Non mette la data nel documento
+\begin{document}
+
+% Titolo e Autore
+\begin{titlepage}	
+	
+	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for horizontal lines, change thickness here
+	
+	\center % Centre everything on the page
+	
+    % Logo Universit‡
+	\includegraphics[width=.4\textwidth]{LogoPolitecnicoMilano.png}\\[0.4cm]
+	\textsc{\LARGE}\\[0.3cm] % Main heading such as the name of your university/college
+	
+	% Corso di Laurea
+	\textsc{\large MSc. Music and Acoustic Engineering}\\[1cm] % Minor heading such as course title
+	
+	% Materia
+	\textsc{\Large Materia}\\[0.5cm] % Major heading such as course name
+	
+	% Titolo
+	\HRule\\[0.4cm]
+	{\huge\bfseries Titolo Compito}\\[0.4cm] % Title of your document
+	\HRule\\[1.5cm]
+	
+	% Autore e Gruppo
+	{\large\textit{Author:}}\\
+	Lorenzo \textsc{Lellini} % Your name
+	\\ \textsc{Numero Gruppo}
+
+	\vfill\vfill
+	
+\end{titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Inizio numerazione Pagine con Numeri Arabi
+\newpage
+\pagenumbering{arabic}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% SEZIONE 1
+\let\cleardoublepage\clearpage
+\section{Sezione 1}
+\subsection{Sottosezione 1}
+
+
+% Testo SEZIONE 1
+Prova Prima Sezione\footnote{Nota a pi√® di pagina} \\
+
+\lipsum % Testo random
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+% SEZIONE 2
+\let\cleardoublepage\clearpage
+\section{Sezione 2}
+\subsection{Sottosezione 2}
+
+% Testo SEZIONE 2
+Prova Seconda Sezione\footnote{Nota a pi√® di pagina} \\
+
+\lipsum % Testo random
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
