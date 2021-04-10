@@ -21,3 +21,9 @@ Compute training features
 Compute test features
 Feature visualization
 Classification on 4 classes
+
+
+Note per il report zack:
+Togliere immagini codice mfcc fig4 154-191 200-205
+293-298 codice delle features visualisation
+smaltire tutta la parte di features visualisation non fondamentale pag 8
