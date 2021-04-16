@@ -14,6 +14,12 @@ info:
 Target Genere:  
 > Metal - Bluse - Reggae - HipHop
 
+### Authors:
+- @IronZack95
+- @Alessandro199762
+- @LorenzoLellini
+- @lucasorini
+
 ### WORKFLOW:
 
 1. Feature computation
@@ -24,6 +30,6 @@ Target Genere:
 
 
 ### Note per il report zack:
-[x] Togliere immagini codice mfcc fig4 154-191 200-205
-[x] 293-298 codice delle features visualisation
-[x] smaltire tutta la parte di features visualisation non fondamentale pag 8
+- [x] Togliere immagini codice mfcc fig4 154-191 200-205
+- [x] 293-298 codice delle features visualisation
+- [x] smaltire tutta la parte di features visualisation non fondamentale pag 8
