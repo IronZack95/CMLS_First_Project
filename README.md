@@ -1,7 +1,7 @@
 # CMLS_First_Project
- **First Project of Computer Music** \- _Language and Systems_ \- ***Group 16*** \- **Homework 1** 
+ **First Project of Computer Music** \- _Language and Systems_ \- **Homework 1** 
  
- ### Authors:
+ ### Authors \- ***Group 16*** :
 - @https://github.com/IronZack95
 - @https://github.com/Alessandro199762
 - @https://github.com/LorenzoLellini
@@ -16,7 +16,7 @@
 ## OVERLEAF LaTeX REPORT LINK:
 [OverLeaf Report Link](https://it.overleaf.com/7297938544zbhsbwwycfwv)
 
-*info:*
+### *info:*
 > _Target Genere:_  Metal - Bluse - Reggae - HipHop
 
 ### WORKFLOW:
