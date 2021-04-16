@@ -1,5 +1,5 @@
 ## CMLS_First_Project
- First Project of Computer Music Language and Systems Group 16 Homework 1
+ **First Project of Computer Music** \- -Language and Systems- \- ***Group 16*** **Homework 1**
 
 ### ENVIRONMENT FOR MINICONDA:
 - CMLS.yml
@@ -15,10 +15,10 @@ Target Genere:
 > Metal - Bluse - Reggae - HipHop
 
 ### Authors:
-- @IronZack95
-- @Alessandro199762
-- @LorenzoLellini
-- @lucasorini
+- @https://github.com/IronZack95
+- @https://github.com/Alessandro199762
+- @https://github.com/LorenzoLellini
+- @https://github.com/lucasorini
 
 ### WORKFLOW:
 
