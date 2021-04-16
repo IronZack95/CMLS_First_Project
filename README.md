@@ -1,17 +1,17 @@
 ## CMLS_First_Project
- **First Project of Computer Music** \- -Language and Systems- \- ***Group 16*** **Homework 1**
+ **First Project of Computer Music** \- _Language and Systems_ \- ***Group 16*** \- **Homework 1** 
 
 ### ENVIRONMENT FOR MINICONDA:
-- CMLS.yml
+> CMLS.yml
 
 ### JUPYTER NOTEBOOK PROJECT:
- - Assignment1_GenereClassification.ipynb
+> Assignment1_GenereClassification.ipynb
 
 ### OVERLEAF REPORT LINK:
 [OverLeaf Template Link](https://it.overleaf.com/7297938544zbhsbwwycfwv)
 
 info:
-Target Genere:  
+_Target Genere:_  
 > Metal - Bluse - Reggae - HipHop
 
 ### Authors:
