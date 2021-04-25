@@ -10,8 +10,8 @@
 ## How to run this code:
 1. _dupplicare questa repository in una cartella lasciando il nome "CMLS_First_project"_
 2. _nella stessa Directory della cartella CMLS_First_project appena creata creare la cartella "Input_Audio_Files"_
-3. _all'interno di Input_Audio_Files creare sottocartelle con i nomi dei generi musicali target 
-4. _dividere i files audio in ogni cartella in altre due sottocartelle chiamate "test" e "training"
+3. _all'interno di Input_Audio_Files creare sottocartelle con i nomi dei generi musicali target_
+4. _dividere i files audio in ogni cartella in altre due sottocartelle chiamate "test" e "training"_
 
 \- CMLS_First_Project<br>
 > \-Assignment1_GenereClassification.ipynb
