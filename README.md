@@ -13,13 +13,11 @@
 3. _all'interno di Input_Audio_Files creare sottocartelle con i nomi dei generi musicali target 
 4. _dividere i files audio in ogni cartella in altre due sottocartelle chiamate "test" e "training"
 
-\- CMLS_First_Project
-\- Input_Audio_files:
-               \|- Metal:
-               \|    |-test
-               \|    |-training
-               \|- Blues: ..
-               \|- ..
+>\- CMLS_First_Project<br>
+>\- Input_Audio_files:<br>
+>>\- Metal:<br>
+>>>\- test<br>
+>>>\- training<br>
 
 ## Environment for Miniconda:
 > CMLS.yml
