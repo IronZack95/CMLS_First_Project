@@ -23,16 +23,16 @@
 >>\- training<br>
 
 ## Environment for Miniconda:
-> CMLS.yml
+CMLS.yml
 
 ## Jupyter Notebook File:
-> Assignment1_GenereClassification.ipynb
+Assignment1_GenereClassification.ipynb
 
 ## OVERLEAF LaTeX REPORT LINK:
 [OverLeaf Report Link](https://it.overleaf.com/7297938544zbhsbwwycfwv)
 
 ### *info:*
-> _Target Genere:_  Metal - Bluse - Reggae - HipHop
+_Target Genere:_  Metal - Bluse - Reggae - HipHop
 
 ### WORKFLOW:
 
