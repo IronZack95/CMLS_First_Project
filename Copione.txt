@@ -1,9 +1,16 @@
 6////    ALESSANDRO
 
 - MUSIC GENRE CLASSIFICATION
+<<<<<<< HEAD
 Goodmorning everyone, we are the group 16 and today we have brought to you a research on musical genere classfication.
 In particular we have developed a code based on Python language and machine-learning which is able to understand if a pieace of music belongs to a genere or another one.
 It is able to do so thnaks to the features of a song.
+=======
+Goodmorning everyone, we are group 16 and today we have brought to you a research on musical genere classfication.
+In particular we have developed a code based on Python language and machine-learning which is able to understand if a pieace of music belongs to 4 different musical generes 
+(Metal blues hi hop and raggae).
+It is able to do so thnaks to the features of a song. 
+>>>>>>> 1efeea6e4bf1673af661fc2ea38789f557fbed24
 
 - RELATIONSHIP BETWEEN LOW LEVEL AND HIGH LEVEL FEATURES
 Features are characteristics wihch a song can have or not in common whith other pieces of music.
