@@ -10,7 +10,14 @@
 
 - FEATURE DESCRIPTION AND MFCCs COMPUTATION
 
+Music genres classification is really subjective. So, the best way to approach this problem is using the Mel Frequency Cepstrum Coefficient timbral descriptor. We chose this technique because it can be used as an excellent features vector representation of human hearing. Our auditory system, in fact, is extremely non-linear and Mel Frequency Cepstrum Coefficients allow us to obtain a similar non linear representation of the frequency spectrum. The formula on the slide represents, in fact, the non linear relationship between the Mel frequency and the linear one.
+
+The MFCCs computation involves in the 6 steps shown in the slide.
+The most important ones are the application of a Mel filter bank and the application of the Discrete Cosine Transform.
+
 - FEATURE VISUALISATION
+
+We used 18 Mel filter coefficients and, after the computation we obtained for matrices that include the feature of the training samples. Each matrix contains the features of each genre.
 
 //// ZACCARIA
 
