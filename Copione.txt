@@ -1,8 +1,9 @@
 6////    ALESSANDRO
 
 - MUSIC GENRE CLASSIFICATION
-Goodmorning everyone, we are the group 16 and today we have brought to you a research on musical genere classfication.
-In particular we have developed a code based on Python language and machine-learning which is able to understand if a pieace of music belongs to a genere or another one.
+Goodmorning everyone, we are group 16 and today we have brought to you a research on musical genere classfication.
+In particular we have developed a code based on Python language and machine-learning which is able to understand if a pieace of music belongs to 4 different musical generes 
+(Metal blues hi hop and raggae).
 It is able to do so thnaks to the features of a song. 
 
 - RELATIONSHIP BETWEEN LOW LEVEL AND HIGH LEVEL FEATURES
