@@ -30,3 +30,9 @@ so the music piece is classified according to the genre that is returned the mos
 //// LUCA
 
 - CONFUSION MATRIX AND EVALUATION OF THE RESULTS
+At the end of the testing process, we evaluated how accurate the model is in recognising the musical genre of each analysed audio track.
+Our choice was that of building a confusion matrix, a four-by-four matrix in which the rows correspond to the actual genre and the columns to the predicted genre.
+Observing the main diagonal, we calculated the percentage of correct classification for each genre.
+The recognition of the musical genre is not always so simple, in particular due to the fact that the considered musical genres have similarities in the typical instruments used or in their origins, but also because sometimes artists merge two or multiple known genres in a song.
+Moreover, the musical genre is a high-level descriptor and is subjective, so it is not possible to ask a machine to be perfect in making a genre classification that has a subjective nature.
+
