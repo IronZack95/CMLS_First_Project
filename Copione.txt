@@ -15,10 +15,17 @@
 //// ZACCARIA
 
 - SUPPORT VECTOR MACHINE
-
+for multi-class classification we use an SVM capable to perform a binary classification on a Dataset,
+also called C-Support Vector Classification or SVC.
+Since the division between the characteristics is defined by a hyperplane,
+and the shape of this hyperplane is called kernel,
+we have obtained the best results with a Gaussian type kernel
 
 - MAJORITY VOTING
-
+Once we have these training models, we analyse the audio tracks.
+For each audio track, the six different SVM return a certain class as a result.
+Then we apply the majority voting,
+so the music piece is classified according to the genre that is returned the most times.
 
 //// LUCA
 
