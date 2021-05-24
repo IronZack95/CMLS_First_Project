@@ -3,7 +3,7 @@
 - MUSIC GENRE CLASSIFICATION
 Goodmorning everyone, we are the group 16 and today we have brought to you a research on musical genere classfication.
 In particular we have developed a code based on Python language and machine-learning which is able to understand if a pieace of music belongs to a genere or another one.
-It is able to do so thnaks to the features of a song. 
+It is able to do so thnaks to the features of a song.
 
 - RELATIONSHIP BETWEEN LOW LEVEL AND HIGH LEVEL FEATURES
 Features are characteristics wihch a song can have or not in common whith other pieces of music.
@@ -12,7 +12,7 @@ The low-level ones are objective chatracteristics of the time and frequency doma
 On the other hand, the high-level features are more subjective characteristics (and thus harder for the machine to recognise) which the human brain uses
 
 The goal of the machine is to link together the low-level and the high-level features in order to assign a song to a specific genere.
-The low-level feature we have been using is the MFCC computation which Lorenzo is going to talk about. 
+The low-level feature we have been using is the MFCC computation which Lorenzo is going to talk about.
 
 ////  LORENZO
 
@@ -25,7 +25,8 @@ The most important ones are the application of a Mel filter bank and the applica
 
 - FEATURE VISUALISATION
 
-We used 18 Mel filter coefficients and, after the computation we obtained for matrices that include the feature of the training samples. Each matrix contains the features of each genre.
+We used 18 Mel filter coefficients and, after the computation we obtained for matrices that include the feature of the training samples.
+Each matrix contains the features of each genre.
 
 //// ZACCARIA
 
@@ -50,4 +51,3 @@ Our choice was that of building a confusion matrix, a four-by-four matrix in whi
 Observing the main diagonal, we calculated the percentage of correct classification for each genre.
 The recognition of the musical genre is not always so simple, in particular due to the fact that the considered musical genres have similarities in the typical instruments used or in their origins, but also because sometimes artists merge two or multiple known genres in a song.
 Moreover, the musical genre is a high-level descriptor and is subjective, so it is not possible to ask a machine to be perfect in making a genre classification that has a subjective nature.
-
